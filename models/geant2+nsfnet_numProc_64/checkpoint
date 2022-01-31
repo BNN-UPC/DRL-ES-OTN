@@ -1,0 +1,2 @@
+model_checkpoint_path: "ckpt_ACT-320"
+all_model_checkpoint_paths: "ckpt_ACT-320"
