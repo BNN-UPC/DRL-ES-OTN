@@ -1,7 +1,7 @@
 # Copyright (c) 2022, Carlos Güemes [^1]
 #
 # [^1]: Universitat Politècnica de Catalunya, Computer Architecture
-#     department, Barcelona, Spain. Email: carlos.guemes@estudiantat.upc.edu
+#     department, Barcelona, Spain. Email: carlos.guemes@upc.edu
 
 import argparse
 import matplotlib.pyplot as plt
