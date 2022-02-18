@@ -1,4 +1,4 @@
-# ES_OTN_Public
+# Accelerating Deep Reinforcement Learning for Digital Twin Network Optimization with Evolutionary Strategies
 **Carlos Güemes Palau, Paul Almasan, Pere Barlet Ros, Albert Cabellos Aparicio**
 
 Contact us: *[carlos.guemes@upc.edu](mailto:carlos.guemes@upc.edu)*, *[contactus@bnn.upc.edu](mailto:contactus@bnn.upc.edu)*
